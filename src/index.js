@@ -11,6 +11,10 @@ function App() {
     >
       In the back of my mind,” like imagine evolution implied from location of
       RAM possibly literally actually in frontal lobe
+      <br />
+      <br />
+      "if you don't remember something after recalling it, you don't or your
+      unconscious self doesn't want (you) to"
     </div>
   );
 }
