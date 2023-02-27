@@ -13,6 +13,7 @@ function App() {
       RAM possibly literally actually in frontal lobe
       <br />
       <br />
+      <h2 style={{ float: "right" }}>humanharvest.info</h2>
       "if you don't remember something after recalling it, you don't or your
       unconscious self doesn't want (you) to"
     </div>
