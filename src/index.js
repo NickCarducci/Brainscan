@@ -3,6 +3,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 
 function App() {
+  const space = " ";
   return (
     <div
       style={{
@@ -10,7 +11,11 @@ function App() {
       }}
     >
       In the back of my mind,” like imagine evolution implied from location of
-      RAM possibly literally actually in frontal lobe
+      {space}
+      <a href="https://markethistory.quora.com" style={{ color: "black" }}>
+        RAM
+      </a>
+      {space}possibly literally actually in frontal lobe
       <br />
       <br />
       <h2 style={{ float: "right" }}>humanharvest.info</h2>
