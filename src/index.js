@@ -7,6 +7,7 @@ function App() {
   return (
     <div
       style={{
+        maxWidth: "500px",
         width: "100%"
       }}
     >
@@ -24,7 +25,19 @@ function App() {
       <br />
       <br />
       Is choosing an in-network physician a material benefit to the consumer or
-      benefactor? (multilevelcapital.com)
+      benefactor? (
+      <a style={{ color: "black" }} href="https://commie.dev">
+        commie.dev
+      </a>
+      {/*multilevelcapital.com */})
+      <br />
+      <br />
+      Do people that make threats want their ransom hostage victims harmed or
+      whole in any case? (
+      <a style={{ color: "black" }} href="https://treesdebindcarbon.quora.com">
+        treesdebindcarbon.com
+      </a>
+      )
     </div>
   );
 }
